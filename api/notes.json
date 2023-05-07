@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "Test1",
+      "text": "Test text",
+      "date": 1683488405085,
+      "id": 1
+    },
+    {
+      "title": "Test2",
+      "text": "Test text but different",
+      "date": 1683488405285,
+      "id": 2
+    }
+  ]
+}
